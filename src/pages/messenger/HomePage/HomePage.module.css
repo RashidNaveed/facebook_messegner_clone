@@ -1,0 +1,31 @@
+.homepage {
+  text-align: center;
+  width: 100%;
+}
+
+.homepage_input_form {
+  padding: 20px;
+  margin: 20px !important;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: #e9e9eb;
+  width: 96%;
+}
+
+.message_list {
+  width: 100%;
+}
+
+.homepage_form_control {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.form_control_input {
+  flex: 1;
+}
+
+.form_control_button {
+  flex: 0;
+}
